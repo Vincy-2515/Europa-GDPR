@@ -1,0 +1,250 @@
+﻿Note per lo sviluppo del sito:
+* nessun animazione strana o elemento troppo complesso
+* il sito deve mantenere più o meno mantenere la sua struttura iniziale (analizza la pagina html per capire, ad essere modificate devono essere solo le due pagine di contenuti):
+   * pagina principale: 
+      * titolo del sito con immagine in background a schermo intero
+      * scorrendo verso il basso una sezione dove si possono inserire i pensieri di quattro persone in una griglia 2x2 
+      * dopo la sezione pensieri un tasto per passare ad un’altra pagina ed esplorare il contenuto effettivo del sito
+   * pagine dei contenuti:
+      * una o due sezioni per ogni materia
+      * 1° pagina: contenente le sezioni di ogni materia d’esame nell’ordine seguente: inglese, italiano, informatica e sistemi
+      * 2° pagina: il resto delle materie nell’ordine seguente: TPSI, GPOI, MOTORIA, MATEMATICA e infine la parte delle aggiunte
+   * footer presente in tutte le pagine con informazioni sui creatori
+   * header di navigazione tra le pagine con icona del sito e nome 
+* correzioni:
+   * la struttura del sito è già presente modificala per rispettare meticolosamente la struttura proposta a seguire, rimuovi la parte delle immagini da OGNI sezione e struttura il sito in sezioni e card come mostrato a seguire
+
+
+________________
+INGLESE
+Sezione 1: Historical Development and Treaties
+* Card 1: Origins and Overview
+   * Born from the disastrous effects of WWII to ensure Franco-German reconciliation.
+   * Currently comprises 27 member states (following the UK's Brexit on January 31, 2020).
+* Card 2: The First Treaties (1950s)
+   * Treaty of Paris: Established the ECSC (pooling coal and steel industries).
+   * Treaty of Rome: Created the EEC (common market based on free movement of goods, services, capital, people) and Euratom (atomic energy).
+   * Merger Treaty: Unified the executive bodies of the three Communities (became fully effective in 1993).
+* Card 3: Single European Act (1986)
+   * Strengthened integration by setting the completion of the internal market.
+   * Extended the Union's competences.
+   * Marked the period of the first direct elections to the European Parliament.
+
+
+Sezione 2: The Institutional Framework
+* Card 4: The Four Main Institutions
+   * European Parliament (Strasbourg): Directly elected by EU citizens; co-decides laws and approves the budget.
+   * European Council (Brussels): Composed of Heads of State/Government; defines the general political direction and priorities.
+   * Council of Ministers (Brussels): Represents national governments; adopts laws and coordinates policies with the Parliament.
+   * European Commission (Brussels): The main executive body; proposes legislation, manages budget/policies, and ensures application of EU law.
+* Card 5: The Three Supporting Institutions
+   * Court of Justice of the EU (Luxembourg): Ensures treaties are correctly interpreted and EU law is respected.
+   * European Central Bank (Frankfurt): Manages monetary/exchange-rate policy and maintains price stability in the euro area.
+   * European Court of Auditors (Luxembourg): Independent guardian of financial interests, promoting accountability and transparency.
+________________
+
+
+ITALIANO
+SEZIONE 1: Introduzione e Visione
+Nota per l'IA: Disporre questa sezione a tutta larghezza (Hero minimale) con un titolo forte e un paragrafo d'impatto.
+
+
+Titolo Principale (H1):
+L'Approccio Europeo all'Intelligenza Artificiale
+Sottotitolo (H2):
+Verso una leadership globale, etica e giuridica.
+Testo Introduzione (Paragrafo):
+L'Europa è chiamata a guidare lo sviluppo dell'IA facendo leva sui valori dell'umanesimo e sulla tutela dei diritti fondamentali. La regolamentazione non è un semplice limite tecnico, ma uno strumento per garantire che la tecnologia rimanga al servizio della persona, rifiutando logiche di puro profitto e affermando uno standard mondiale basato sulla giustizia sociale.
+
+
+SEZIONE 2: I Quattro Pilastri
+Nota per l'IA: Disporre questa sezione in una griglia (Grid) di 4 Card/Flashcard statiche (2x2 su desktop, verticali su mobile). Ogni card ha un titolo in grassetto e un elenco puntato sintetico.
+Titolo Sezione (H2):
+I Pilastri della Visione Europea
+[Card 1] Centralità della Persona
+* Focus: Sviluppo integrale dell'individuo.
+* Azione: Monitoraggio e bilanciamento di ogni metodologia basata su IA.
+* Obiettivo: Garantire una crescita equilibrata a livello sociale, culturale e spirituale.
+[Card 2] Lavoro e Diritti
+* Transizione: Rifiuto del catastrofismo; focus sulla rimodulazione e creazione di nuove attività.
+* Formazione: Istituzione della formazione continua come diritto soggettivo del lavoratore.
+* Tutela: Nuove norme per la salute e il benessere nei contesti digitali (interventi correttivi).
+[Card 3] Sovranità e Competizione
+* Scenario: Recuperare il ritardo strategico rispetto a USA, Cina e Giappone.
+* Antitrust: Contrasto ai monopoli privati per proteggere la sovranità nazionale.
+* Mercato: Creazione di un mercato europeo integrato per attrarre investimenti e proteggere le infrastrutture critiche.
+[Card 4] Etica e Sicurezza
+* Difesa: Rafforzamento della cyber-difesa e contrasto alla disinformazione esterna.
+* Geopolitica: Transizione da spettatori passivi ad attori globali nella governance dei beni comuni.
+* Standard: Definizione di regole globali fondate sulla dignità umana.
+
+
+________________
+
+
+INFORMATICA
+Layout: Griglia a 3 Card statiche.
+* Card 1: Concetti Base e Liceità
+   * Titolo: I Dati e il loro Trattamento
+   * Contenuto:
+      * Dati Personali: Informazioni che identificano una persona fisica (diretti/indiretti, sensibili, giudiziari).
+      * Il Trattamento: Operazioni sui dati (raccolta, registrazione, consultazione, diffusione, distruzione).
+      * Liceità (GDPR): Trattamento basato su correttezza, trasparenza, limitazione delle finalità, minimizzazione e responsabilizzazione.
+* Card 2: Analisi Soggetti
+   * Titolo: Privacy Policy Ricca-IT
+   * Contenuto:
+      * Titolare del Trattamento: Ricca IT (stabilisce finalità e modalità).
+      * Interessato: Utente che naviga o usa i servizi.
+      * Soggetti con Accesso: Personale interno autorizzato, terzi esterni (professionisti/istituti di credito), autorità per obblighi di legge.
+* Card 3: Caso Pratico
+   * Titolo: Portale "Galileo Ferraris" (Privacy by Design)
+   * Contenuto:
+      * Trasparenza: Conservazione limitata (Email/Nome fino a chiusura profilo; IP per 14 giorni; Cookie di sessione).
+      * Protezione: Crittografia HTTPS (TLS 1.3), telemetria anonimizzata, separazione dei dati nel database.
+      * Controllo: Server in Italia, checkbox separate, alert di inattività (cancellazione dopo 24 mesi) e scaricamento dati in .JSON.
+________________
+
+
+SISTEMI
+Layout: Griglia a 4 Card statiche.
+* Card 1: Quadro Normativo
+   * Titolo: Definizione e Struttura del GDPR
+   * Contenuto:
+      * Normativa UE sulla privacy, operativa dal 25 maggio 2018 come diritto fondamentale.
+      * Composto da 173 Considerando (indirizzo interpretativo) e 99 Articoli suddivisi in XI Capi.
+* Card 2: Ambito di Applicazione
+   * Titolo: Limiti di Giurisdizione
+   * Contenuto:
+      * Materiale: Trattamento automatizzato o manuale in archivio (escluse attività esclusivamente domestiche).
+      * Territoriale: Aziende in UE e aziende extra-UE che offrono servizi o monitorano residenti in UE.
+      * Soggetti Protetti: Solo persone fisiche (escluse imprese e persone decedute).
+* Card 3: Responsabilità Aziendali
+   * Titolo: Doveri delle Aziende (Accountability)
+   * Contenuto:
+      * Principi: Liceità, trasparenza, minimizzazione e sicurezza fin dalla progettazione (Privacy by Design).
+      * Adempimenti: Registro dei Trattamenti (obbligatorio sopra i 250 dipendenti o ad alto rischio), notifica Data Breach entro 72 ore, eventuale nomina di un DPO.
+* Card 4: Diritti dell'Utente
+   * Titolo: Diritti dell'Interessato
+   * Contenuto:
+      * Accesso, Rettifica e Cancellazione: Visionare i dati, correggerli o richiederne l'eliminazione (Diritto all'oblio).
+      * Opposizione e Limitazione: Opporsi al trattamento (es. marketing) o limitarlo in caso di contestazioni.
+      * Portabilità e Tutela: Trasferire i dati a un altro titolare; rifiuto di decisioni basate esclusivamente su processi automatizzati.
+________________
+
+
+TPSI
+Sezione 1: Principi Fondamentali e Obblighi
+* Card 1: Ambito di Applicazione
+   * Normativa dell'Unione Europea per la protezione dei dati personali.
+   * Si applica a qualsiasi app o sito web (anche extra-UE) che offra servizi o monitori il comportamento (profilazione) dei cittadini europei.
+* Card 2: Le Regole per gli Sviluppatori
+   * Obbligo di rispettare i principi di "Privacy by Design e by Default".
+   * Raccolta limitata alle sole informazioni strettamente necessarie.
+   * Utilizzo di un linguaggio chiaro, trasparente e richiesta di un consenso esplicito e inequivocabile da parte dell'utente.
+Sezione 2: Diritti dei Cittadini e Sanzioni
+* Card 3: I Diritti Garantiti
+   * Accesso e Portabilità: Diritto di accedere alle proprie informazioni e di poterle trasferire.
+   * Cancellazione: Diritto all'oblio, con una tutela rafforzata soprattutto per i minori.
+   * Opposizione: Possibilità di opporsi all'utilizzo dei dati per finalità di marketing.
+* Card 4: Tutela Automatica e Sanzioni
+   * Diritto alla protezione contro decisioni basate su processi di profilazione puramente automatizzati.
+   * Sistema sanzionatorio molto severo in caso di violazione della normativa, con multe che possono arrivare fino a 20 milioni di euro.
+________________
+GPOI
+Sezione 1: Il Quadro Normativo Globale ed Europeo
+   * Card 1: Il Livello Internazionale (ONU e ILO)
+   * Costituisce la base globale per la tutela della salute e della sicurezza sul lavoro.
+   * Le convenzioni dell'ONU e dell'Organizzazione Internazionale del Lavoro (ILO) forniscono le linee guida essenziali.
+   * Focus primario sulla corretta gestione dei rischi e sull'eliminazione delle molestie negli ambienti lavorativi.
+   * Card 2: Le Direttive dell'Unione Europea
+   * Impone un sistema di norme vincolanti per tutti gli Stati membri.
+   * Disciplina la prevenzione generale e i rischi emergenti derivanti dall'uso di nuove tecnologie e macchinari.
+   * Garantisce protezione specifica contro l'esposizione a sostanze nocive e contro le violenze digitali.
+Sezione 2: L'Applicazione in Italia e le Tutele Specifiche
+   * Card 3: Il Testo Unico sulla Sicurezza
+   * Rappresenta l'attuazione concreta dei principi sanciti dalla Costituzione Italiana.
+   * Introduce l'obbligo inderogabile per i datori di lavoro di valutare puntualmente ogni tipologia di rischio.
+   * Impone l'inclusione nella valutazione anche dei rischi specifici legati alle differenze di genere e all'età anagrafica dei lavoratori.
+   * Card 4: Equità e Pari Opportunità
+   * Il sistema di sicurezza è affiancato da leggi complementari rigorose.
+   * Prevede tutele mirate a protezione della genitorialità.
+   * Promuove attivamente le pari opportunità per garantire un ambiente di lavoro non solo sicuro, ma anche profondamente sano ed equo.
+________________
+
+
+MOTORIA
+Sezione 1: Il Valore Universale dello Sport (Diritti e Pace) 
+   * Card 1: Diritto Umano e Abilitatore Globale
+   * Riconosciuto dalle Nazioni Unite non solo come svago, ma come diritto umano fondamentale.
+   * Funge da "abilitatore fondamentale" per gli obiettivi dell'Agenda 2030, promuovendo inclusione sociale e solidarietà.
+   * Card 2: Diplomazia e "Pace Positiva"
+   * Agisce come linguaggio universale per superare le differenze culturali, politiche e religiose.
+   * Promuove la Tregua Olimpica (dal 1993) per sospendere i conflitti, favorire aiuti umanitari e diffondere valori come il fair play e il rispetto.
+Sezione 2: Impatto Concreto sullo Sviluppo e sull'Inclusione
+   * Card 3: Supporto agli Obiettivi di Sviluppo Sostenibile (SDG)
+   * Salute (OSS 3): Previene malattie croniche e migliora il benessere psicologico.
+   * Istruzione (OSS 4): Aumenta concentrazione e disciplina, favorendo il rendimento scolastico.
+   * Uguaglianza di Genere (OSS 5): Sostiene la leadership femminile e combatte le discriminazioni (es. Sports for Generation Equality).
+   * Card 4: Inclusione Sociale e Prevenzione
+   * Offre opportunità di crescita e integrazione per rifugiati e giovani in aree di crisi (es. il Refugee Olympic Team supportato dall'UNHCR).
+   * Strumento chiave per la prevenzione della criminalità e dell'estremismo giovanile, insegnando competenze relazionali e valori positivi.
+   * Card 5: Sensibilizzazione Globale
+   * Celebrazione annuale il 6 aprile: Giornata Internazionale dello Sport per lo Sviluppo e la Pace (IDSDP).
+   * Focus costante sulla lotta al razzismo, sulla tutela dell'ambiente e sulla costruzione di una società globale più sana e pacifica.
+________________
+MATEMATICA
+Sezione 1: Il Ruolo e l'Impatto della Matematica 
+      * Card 1: Un Linguaggio Universale
+      * Fondamentale per la realizzazione personale e l'inclusione sociale nel XXI secolo.
+      * Strumento chiave per interpretare la realtà e affrontare sfide globali, come il cambiamento climatico, la transizione ecologica e la rivoluzione digitale.
+      * Card 2: Motore Economico e Lavoro
+      * Essenziale per l'innovazione tecnologica e la competitività globale (settori STEM).
+      * Possedere basi solide è un requisito cruciale per l'accesso al mondo del lavoro, contrastando l'attuale carenza europea di specialisti altamente qualificati.
+      * Card 3: Cittadinanza Attiva
+      * Permette di decodificare un mondo guidato da dati, algoritmi e social network.
+      * Saper leggere statistiche e grafici è indispensabile per smascherare le fake news e comprendere i fenomeni ambientali e sociali in modo consapevole e libero.
+Sezione 2: La Sfida Educativa e le Soluzioni Didattiche
+      * Card 4: Le Difficoltà Attuali (Dati PISA 2022)
+      * Calo generale: Le competenze matematiche sono in flessione nell'area OCSE; l'Italia si attesta a 471 punti.
+      * Divario territoriale: Persiste una forte discrepanza di risultati tra gli studenti del Nord (superiori) e quelli del Sud Italia.
+      * Divario di genere: Si registra uno dei gap più alti dell'area OCSE, con i ragazzi che superano le ragazze di circa 21 punti.
+      * Card 5: Didattica Innovativa
+      * Problem solving: Promuove creatività e ragionamento critico, allontanandosi da un approccio puramente meccanico e mnemonico.
+      * Applicazioni concrete: Connette la disciplina alla vita quotidiana (finanza, sport, architettura, tecnologie).
+Supporto digitale: L'integrazione di software interattivi e simulazioni rende l'apprendimento più efficace e coinvolgente.
+________________
+AGGIUNTE
+Titolo: Cittadinanza, Diritti e Organizzazioni Internazionali 
+
+
+Card 1: Costituzione Italiana
+      * Titolo: I Principi Fondamentali della Repubblica
+      * Contenuto:
+      * Art. 1: Repubblica fondata sul lavoro e sovranità popolare.
+      * Art. 2: Diritti inviolabili e doveri di solidarietà.
+      * Art. 3: Uguaglianza formale e sostanziale per tutti i cittadini.
+      * Art. 10: Adeguamento al diritto internazionale e diritto d'asilo.
+      * Art. 11: Ripudio della guerra e promozione della pace.
+      * Art. 15: Libertà e segretezza della corrispondenza (radice della privacy).
+Card 2: Cittadinanza e Diritti in Internet
+      * Titolo: Diritti e Doveri Digitali
+      * Contenuto:
+      * Cittadinanza Digitale: Gestione sicura dell'identità e partecipazione attiva in rete.
+      * Dichiarazione 2015: Internet inteso come spazio pubblico e bene comune.
+      * Accesso e Neutralità: Diritto di connessione e trattamento equo dei dati.
+      * Autodeterminazione: Controllo dell'utente sui propri dati personali.
+      * Diritto all'Oblio: Cancellazione dei dati non più pertinenti dai motori di ricerca.
+Card 3: Carte Internazionali dei Diritti
+      * Titolo: Tutela Globale ed Europea della Persona
+      * Contenuto:
+      * Obiettivo: Garanzia della dignità umana per l'esercizio della cittadinanza attiva.
+      * Dichiarazione Universale (1948): Diritti umani inalienabili e universali dell'ONU.
+      * Carta di Nizza (2000): Diritti civili, politici e sociali dei cittadini UE.
+      * I 6 Valori UE: Dignità, Libertà, Uguaglianza, Solidarietà, Cittadinanza, Giustizia.
+Card 4: Organizzazioni Internazionali
+      * Titolo: Cooperazione Globale e Sicurezza
+      * Contenuto:
+      * ONU: Pace, sicurezza globale e inclusione (tramite agenzie come ILO).
+      * NATO: Alleanza transatlantica per la difesa collettiva militare.
+      * G8 e G20: Forum economici globali per le politiche finanziarie e ambientali.
+      * ONG: Associazioni no-profit indipendenti per interventi umanitari e sociali.
