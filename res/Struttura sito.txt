@@ -3,8 +3,8 @@
 * il sito deve mantenere più o meno mantenere la sua struttura iniziale (analizza la pagina html per capire, ad essere modificate devono essere solo le due pagine di contenuti):
    * pagina principale: 
       * titolo del sito con immagine in background a schermo intero
-      * scorrendo verso il basso una sezione dove si possono inserire i pensieri di quattro persone in una griglia 2x2 
-      * dopo la sezione pensieri un tasto per passare ad un’altra pagina ed esplorare il contenuto effettivo del sito
+      * scorrendo verso il basso una sezione dove inserire la descrizione generale riportata sotto
+      * dopo la descrizione un tasto per passare ad un’altra pagina ed esplorare il contenuto effettivo del sito
    * pagine dei contenuti:
       * una o due sezioni per ogni materia
       * 1° pagina: contenente le sezioni di ogni materia d’esame nell’ordine seguente: inglese, italiano, informatica e sistemi
@@ -13,9 +13,14 @@
    * header di navigazione tra le pagine con icona del sito e nome 
 * correzioni:
    * la struttura del sito è già presente modificala per rispettare meticolosamente la struttura proposta a seguire, rimuovi la parte delle immagini da OGNI sezione e struttura il sito in sezioni e card come mostrato a seguire
-
-
 ________________
+
+
+DESCRIZIONE
+Per il nostro progetto di Educazione Civica di quest'anno, abbiamo approfondito temi cruciali per il mondo contemporaneo, raccogliendo e rielaborando i concetti chiave affrontati durante il percorso scolastico. Abbiamo esaminato le tappe storiche fondamentali dell'Europa e le sue istituzioni, per poi analizzare l'impatto etico dell'intelligenza artificiale, riprendendo i temi trattati all'evento 'Codice per una nuova Europa' tenutosi presso la Camera di Commercio di Ragusa. Infine, abbiamo esplorato il tema della privacy, affrontando il GDPR sia dal punto di vista teorico che pratico: oltre a studiarne gli elementi principali, abbiamo analizzato la privacy policy attuale di Ricca IT per arrivare poi alla creazione di una nostra proposta ipotetica.
+________________
+
+
 INGLESE
 Sezione 1: Historical Development and Treaties
 * Card 1: Origins and Overview
